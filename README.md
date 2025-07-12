@@ -1,4 +1,6 @@
-# Simple Podcast Generator
+# AI Podcast Generator
+
+https://github.com/user-attachments/assets/0d8520e5-8701-4fae-87c6-a5e5342fed21
 
 A modern Next.js application that transforms text into natural-sounding speech using ElevenLabs AI voices. Generate professional-quality podcasts with a beautiful, intuitive interface.
 
